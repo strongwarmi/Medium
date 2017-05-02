@@ -1,0 +1,82 @@
+body{
+  font-family: 'Raleway',sans-serif;
+  margin: 0;
+}
+.Cabecera{
+  height: 70px;
+  color: #8f8f8f;
+  font-size: 20px;
+}
+.CabIzquierda{
+  display: inline-block;
+  margin-left: 10%;
+  padding: 10px;
+}
+.CabDerecha{
+  display: inline-block;
+  position: absolute;
+  padding: 10px;
+  right: 10%;
+}
+.Follow{
+  color: #1C9963;
+  border: 1px solid #1C9963;
+  background-color: transparent;
+  border-radius: 20px;
+  padding: 2px 15px 2px 15px;
+  position: absolute;
+  top: 25px;
+  left: 330px;
+}
+.Redes{
+  position: absolute;
+  top: 25px;
+  left: 415px;
+}
+.Separador{
+  position: absolute;
+  top: 15px;
+  font-size: 30px;
+}
+.Post{
+  position: absolute;
+  right: 20%;
+  left: 20%;
+}
+
+.TituloPost{
+  color: #282323;
+  font-size: 40px;
+  font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  letter-spacing: -2px;
+  margin: 10px 0;
+}
+.TextPost{
+  font-family: Georgia;
+  font-size: 21px;
+  color: #5b5555;
+  text-align: justify;
+  line-height: 1.5;
+}
+.Autor{
+  font-size: 16px;
+  color: #343232;
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+}
+.AutorDetalle{
+  font-size: 12px;
+  color: #938c8c;
+}
+.PiePagina{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 0 1px rgba(0,0,0,.44);
+  font-size: 30px;
+  color: #a5a2a2;
+}
+.Compartir{
+
+}

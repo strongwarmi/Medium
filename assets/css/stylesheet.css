@@ -1,0 +1,33 @@
+.sprite {
+    background-image: url("../img/spritesheet.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.sprite-AutorArticulo {
+    width: 60px;
+    height: 60px;
+    background-position: -5px -5px;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+.sprite-HowTo {
+    width: 95px;
+    height: 36px;
+    background-position: -5px -75px;
+    margin: 0 20px;
+}
+
+.sprite-Logo {
+    width: 49px;
+    height: 43px;
+    background-position: -75px -5px;
+}
+
+.sprite-user {
+    width: 32px;
+    height: 32px;
+    background-position: -134px -5px;
+    border-radius: 100%;
+}
